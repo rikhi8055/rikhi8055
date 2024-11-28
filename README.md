@@ -9,6 +9,13 @@ Hello! I'm **Nitish Kumar Rikhi**, a **UI/UX and multimedia designer** with **11
 
 ---
 
+## 📬 How to Reach Me
+- **Portfolio:** [ThinkAIStudio](http://thinkaistudio.com)  
+- **LinkedIn:** [Nitish Kumar Rikhi](https://linkedin.com/nitish-r-92864153)  
+- **Email:** nitish8055@gmail.com  
+
+---
+
 ## 🌱 What I’m Working On
 - **Exploring AI in Design:** Creating cutting-edge solutions by integrating AI tools into the design process.  
 - **Mastering Motion:** Diving deeper into **After Effects** to create visually immersive experiences.  
@@ -21,13 +28,6 @@ I’m eager to connect with teams, developers, and creatives who share a passion
 - Building intuitive web & mobile apps.  
 - Developing **user-centric SaaS platforms**.  
 - Creating **impactful multimedia campaigns**.  
-
----
-
-## 📬 How to Reach Me
-- **Portfolio:** [ThinkAIStudio](http://thinkaistudio.com)  
-- **LinkedIn:** [Nitish Kumar Rikhi](https://linkedin.com/nitish-r-92864153)  
-- **Email:** nitish8055@gmail.com  
 
 ---
 
